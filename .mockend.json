@@ -3,7 +3,12 @@
     "title": { "string": {} },
     "comments": {
       "hasMany": "Comment",
-     "address":"etee"
+       "name": {
+    "string": [
+      "Thor",
+      "Loki"
+    ]
+  }
     }
   },
   "Comment": {
