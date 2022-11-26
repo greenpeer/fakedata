@@ -15,12 +15,6 @@
         "maxLength": 100
       }
     },
-     "body2": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
-    },
     "tag": {
       "string": [
         "one",
